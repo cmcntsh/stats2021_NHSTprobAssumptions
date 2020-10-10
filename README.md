@@ -2,6 +2,8 @@
 
 ## Exercises
 
+* Data Manipulation in Jamovi: https://github.com/cmcntsh/stats2021_exer_JamoviDataManip
+
 ## Readings
 
 * Field chapters 3, 6
