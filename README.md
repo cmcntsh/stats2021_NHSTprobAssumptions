@@ -1,5 +1,7 @@
 # Foundations - Problems with NHST, Statistical Assumptions
 
+This is part of a set of pages on statistics. https://github.com/cmcntsh/stats2021_topics
+
 ## Exercises
 
 * Data Manipulation in Jamovi: https://github.com/cmcntsh/stats2021_exer_JamoviDataManip
